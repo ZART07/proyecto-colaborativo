@@ -1,2 +1,2 @@
 # proyecto-colaborativo
-Proyecto de innovacion web
+Este es el proyecto líder de innovación web de la empresa
