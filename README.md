@@ -1,2 +1,3 @@
 # proyecto-colaborativo
-proyecto en colaboracion
+
+Proyecto de innovacion web
